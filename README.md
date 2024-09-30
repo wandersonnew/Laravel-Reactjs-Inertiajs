@@ -1,1 +1,1 @@
-## Projeto base para aplicações Laravel
+## Sistema para almoxarifado
